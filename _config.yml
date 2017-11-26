@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: '路人甲路人乙 | QTCY | 求彤存毅'
-description: 'JaryChia，伪文青/小宅男，很高兴能在这里与你分享我对技术和生活的思考。'
-keyword: '路人甲, 路人甲的独立博客, 路人甲的博客, jarychia, 摄影, 写写文, 伪文青'
+title: '路人甲路人乙 | QTCY.FUN'
+description: 'JaryChia，伪文青/小宅男，很高兴能在这里与你分享我生活的思考。'
+keyword: '路人甲, JiaYi, 路人甲的博客, jarychia, 摄影, 写写文, 伪文青'
 url: 'https://jarychia.github.io' # your host
 
 # if you don't need baseurl, you should leave this value blank.
@@ -13,9 +13,9 @@ nav:
   tags: '/tags.html'
 
 # Author 配置博主信息
-author: 'JaryChia'
-nickname: 'JaryChia'
-bio: '伪文青 / 求彤存毅'
+author: 'JiaYi'
+nickname: 'JiaYi'
+bio: '伪文青 / 完美主义'
 avatar: '/assets/img/profile.png'
 
 # Search
